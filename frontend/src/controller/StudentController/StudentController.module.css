@@ -1,0 +1,12 @@
+.addNewbtn {
+  display: flex;
+  width: 100%;
+  justify-content: flex-end;
+}
+
+.container {
+  width: 90%;
+  padding: 0 5%;
+  display: flex;
+  flex-direction: column;
+}

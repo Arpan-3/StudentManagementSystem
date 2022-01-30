@@ -1,0 +1,178 @@
+{
+  "data": [
+    {
+      "name": "arpan1",
+      "dob": "1986-07-23",
+      "gender": "Female",
+      "age": 35,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        },
+        {
+          "id": 3,
+          "name": "Angular"
+        }
+      ],
+      "id": 2
+    },
+    {
+      "name": "M.S.Dhoni1",
+      "dob": "1984-02-09",
+      "gender": "Male",
+      "age": 37,
+      "courses": [
+        {
+          "id": 3,
+          "name": "Angular"
+        }
+      ],
+      "id": 8
+    },
+    {
+      "name": "arpan",
+      "dob": "1989-10-17",
+      "gender": "Female",
+      "age": 32,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Java"
+        }
+      ],
+      "id": 9
+    },
+    {
+      "name": "ramesh",
+      "dob": "1986-07-10",
+      "gender": "Male",
+      "age": 35,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 10
+    },
+    {
+      "name": "mahesh",
+      "dob": "2012-06-21",
+      "gender": "Female",
+      "age": 9,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Java"
+        }
+      ],
+      "id": 11
+    },
+    {
+      "name": "suresh",
+      "dob": "1986-07-24",
+      "gender": "Female",
+      "age": 35,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Java"
+        }
+      ],
+      "id": 12
+    },
+    {
+      "name": "rohan",
+      "dob": "1986-07-24",
+      "gender": "Male",
+      "age": 35,
+      "courses": [
+        {
+          "id": 1,
+          "name": "Java"
+        }
+      ],
+      "id": 13
+    },
+    {
+      "name": "darshan",
+      "dob": "1986-07-24",
+      "gender": "Female",
+      "age": 35,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 14
+    },
+    {
+      "name": "ramesh",
+      "dob": "1986-07-24",
+      "gender": "Male",
+      "age": 35,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 17
+    },
+    {
+      "name": "hello",
+      "dob": "2008-02-05",
+      "gender": "Female",
+      "age": 13,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 19
+    },
+    {
+      "name": "qwerty",
+      "dob": "2008-01-07",
+      "gender": "Male",
+      "age": 14,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 20
+    },
+    {
+      "name": "My Name",
+      "dob": "2012-05-07",
+      "gender": "Female",
+      "age": 9,
+      "courses": [
+        {
+          "id": 2,
+          "name": "React"
+        }
+      ],
+      "id": 21
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "name": "Java"
+    },
+    {
+      "id": 2,
+      "name": "React"
+    },
+    {
+      "id": 3,
+      "name": "Angular"
+    }
+  ]
+}

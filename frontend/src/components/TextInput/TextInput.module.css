@@ -1,0 +1,10 @@
+.textInput {
+  width: 100%;
+  height: 30px;
+  margin: 2px;
+}
+
+.text {
+  font-size: 15px;
+  color: red;
+}

@@ -1,0 +1,14 @@
+.studentheaderstyle {
+  text-align: center;
+  color: slateblue;
+}
+
+.tableDivstyle {
+  width: "90%";
+  text-align: "center";
+}
+
+.tableDivstyle table {
+  border: "10px";
+  border-width: "10px";
+}
